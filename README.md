@@ -1,6 +1,7 @@
 # AI-Based Borrower Segmentation & Default Prediction for Debt Recovery
  
 **Author:** Ashmal Abdussalam P T
+
 **Dataset:** UCI Default of Credit Card Clients — 30,000 real records  
 **Objective:** Segment borrowers by risk profile using unsupervised learning and predict default probability using supervised ML — enabling personalized, AI-driven debt recovery strategies.
  
@@ -117,6 +118,3 @@ This project directly maps to how an AI-first debt recovery platform (like River
 ## 👤 Author
  
 **Ashmal Abdussalam P T**   
-## 👤 Author
- 
-**Ashmal Abdussalam P T**  
